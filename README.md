@@ -10,4 +10,20 @@ A aplicação consiste em uma lista de personagens do X-Men, onde a descrição 
 
 ## Layout Mobile
 
-## Layout web
+![Mobile](https://github.com/DarieldonMedeiros/X-Men/blob/main/Assets/mobile.png)
+
+## Layout Web
+
+![Web](https://github.com/DarieldonMedeiros/X-Men/blob/main/Assets/web.png)
+
+
+# Tecnologias utilizadas
+## Front End
+- HTML / CSS / JS
+
+# Autor
+
+Darieldon de Brito Medeiros
+
+https://www.linkedin.com/in/darieldon-de-brito-medeiros/
+  
